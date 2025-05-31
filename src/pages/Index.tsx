@@ -29,7 +29,7 @@ const Index = () => {
               strokeDashoffset="75"
             />
           </svg>
-          Generating your app...
+          Please wait...
         </h1>
       </div>
     </div>
